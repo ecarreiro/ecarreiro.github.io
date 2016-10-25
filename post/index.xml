@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IP Development Knowledge Transfer</title>
+    <link>https://ecarreiro.github.io/post/</link>
+    <description>Recent content in Posts on IP Development Knowledge Transfer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2016 13:41:41 -0500</lastBuildDate>
+    <atom:link href="https://ecarreiro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>post0 2</title>
+      <link>https://ecarreiro.github.io/post/post0-2/</link>
+      <pubDate>Mon, 24 Oct 2016 13:41:41 -0500</pubDate>
+      
+      <guid>https://ecarreiro.github.io/post/post0-2/</guid>
+      <description>
+
+&lt;h1 id=&#34;tools-to-get-started&#34;&gt;Tools to Get Started&lt;/h1&gt;
+
+&lt;p&gt;In order to get started, below are the main hub of the name and description of each application you will use throughout the IP Development rotation. Please create a login and/or download to your desktop.&lt;/p&gt;
+
+&lt;h3 id=&#34;slack&#34;&gt;Slack&lt;/h3&gt;
+
+&lt;p&gt;Slack is a cloud based team collaboration tool.
+Click &lt;a href=&#34;https://slack.com/downloads&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;h3 id=&#34;kitematic&#34;&gt;Kitematic&lt;/h3&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&lt;/a&gt; to download Kitematic.&lt;/p&gt;
+
+&lt;h3 id=&#34;postman&#34;&gt;Postman&lt;/h3&gt;
+
+&lt;p&gt;Postman is a Google Chrome app for interacting with HTTP APIs. It presents you with a friendly GUI for constructing requests and reading responses.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://www.getpostman.com&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;h3 id=&#34;github&#34;&gt;Github&lt;/h3&gt;
+
+&lt;p&gt;Github is a web-based Git repository hosting service&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://github.com/&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;h3 id=&#34;visual-studio-code&#34;&gt;Visual Studio Code&lt;/h3&gt;
+
+&lt;p&gt;Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux, and Mac OS.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://code.visualstudio.com/Download&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-phoenix-project&#34;&gt;The Phoenix Project&lt;/h3&gt;
+
+&lt;p&gt;The Phoenix project is a novel about IT, DevOps, and helping your business win.
+Kevin will provide you an amazon kindle gift to download and read it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>post 01</title>
+      <link>https://ecarreiro.github.io/post/post-01/</link>
+      <pubDate>Mon, 24 Oct 2016 10:22:37 -0500</pubDate>
+      
+      <guid>https://ecarreiro.github.io/post/post-01/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction-what-to-expect&#34;&gt;Introduction: What to Expect&lt;/h1&gt;
+
+&lt;p&gt;When first reading the name IP Development, you may (like me) at first be confused by the name and wonder what the rotation might entail. Soon after realizing that the rotation is mostly concerned with programming, software tools, and different development methodologies, the thought occurs- is this all about programming (EEK!)?  You need not worry. This rotation is catered to its participants and the overall goal of the rotation is not to try to be a coding boot camp. Instead, you will learn about the tools, programming languages, and methodologies used by Forsythe to deliver cutting edge IT solutions.&lt;/p&gt;
+
+&lt;p&gt;Have you heard about virtualization or Hybrid Cloud? Any ideas on what a container is? Have you installed a distribution of Linux?  If you answered yes to any of these questions-GREAT! If not- GREAT! Expect to leave this rotation with having a firm and solid understanding of how Forsythe delivers cutting edge IT Solutions across the spectrum of the broad IT spectrum (See Slide).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;url&#34; alt=&#34;Alt Text&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After analyzing this slide you should have come to the realization that maybe your knowledge of the IT spectrum may be lacking. If you are like me, you will enter into this rotation with more questions than answers, and that is in fact encouraged (ASK QUESTIONS!) The end goal of this rotation is that you may be able to speak intelligently to this slide and explain how it applies to Forsythe’s practices.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the goal of the rotation is to walk away with a true understanding of how IT is evolving and how development plays a major role (DevOps).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
