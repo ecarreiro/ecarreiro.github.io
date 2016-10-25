@@ -6,11 +6,51 @@
     <description>Recent content in Posts on IP Development Knowledge Transfer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Oct 2016 13:41:41 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2016 13:41:48 -0500</lastBuildDate>
     <atom:link href="https://ecarreiro.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>post0 2</title>
+      <title>Beginner&#39;s Guide: How to be Successful in IP Dev</title>
+      <link>https://ecarreiro.github.io/post/post0-3/</link>
+      <pubDate>Mon, 24 Oct 2016 13:41:48 -0500</pubDate>
+      
+      <guid>https://ecarreiro.github.io/post/post0-3/</guid>
+      <description>
+
+&lt;h1 id=&#34;beginner-s-guide-how-to-be-successful-in-ip-dev&#34;&gt;Beginner’s Guide: How to be Successful in IP Dev&lt;/h1&gt;
+
+&lt;p&gt;In the IP Dev rotation, I was definitely the least knowledgeable person in the room. Being a manufacturing engineering major in college, I had been exposed to some basic coding, but that was it. This was the perfect rotation for me to learn more about the IT industry and the emerging trends in the practice. It did have its challenges though. Being the least knowledgeable, I felt way behind Sam and Riane and would feel lost when the meeting topic would get more detailed, and when there were words or concepts I didn’t fully grasp. By the end of the rotation, though, I did overcome these challenges and now feel confident that I can explain things like containers, DevOps, and micro services. Below are some tips on how to be successful in IP Dev when you are an IT beginner:&lt;/p&gt;
+
+&lt;p&gt;## Stay on Track with Your Tasks&lt;/p&gt;
+
+&lt;p&gt;Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.
+  ## Ask Your Peers&lt;/p&gt;
+
+&lt;p&gt;When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.
+  ## Volunteer or Ask for Hands-On Examples&lt;/p&gt;
+
+&lt;p&gt;I am a very visual learner, and I noticed the times I really started to grasp some of the concepts and coding around the rotation was when we were doing hands-on examples. If there’s something that interests you or something you want to learn more about, like us learning Hugo, ask Kevin for a hands on example. And, during WebEx meetings when you do live demos, if you feel as though you are the least knowledgeable, volunteer to do the demo and share your screen. That way, Kevin can walk you through anything you don’t understand.&lt;/p&gt;
+
+&lt;h2 id=&#34;be-responsible-for-your-own-learning&#34;&gt;Be Responsible for Your Own Learning&lt;/h2&gt;
+
+&lt;p&gt;To get a better more basic understanding of a lot of the concepts, on my own time, I would watch YouTube videos that helped solidify concepts and make them easier to explain in my own words. It’s important that if you don’t understand something, you find your own resources that will appeal to your learning style. Below are links to videos that were a big help to me:&lt;/p&gt;
+
+&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&#34;&gt;DevOps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3WIJ4axzFlU&#34;&gt;Cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s7wmiS2mSXY&#34;&gt;API&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Pvbr5d2mIZs&#34;&gt;Microservices &amp;amp; How Everything Works Together&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://microservices.io/patterns/apigateway.html&#34;&gt;Example Scenarios&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools to Get Started</title>
       <link>https://ecarreiro.github.io/post/post0-2/</link>
       <pubDate>Mon, 24 Oct 2016 13:41:41 -0500</pubDate>
       
@@ -24,11 +64,12 @@
 &lt;h3 id=&#34;slack&#34;&gt;Slack&lt;/h3&gt;
 
 &lt;p&gt;Slack is a cloud based team collaboration tool.
-Click &lt;a href=&#34;https://slack.com/downloads&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+Click &lt;a href=&#34;https://slack.com/downloads&#34;&gt;here&lt;/a&gt; to download the web client.&lt;/p&gt;
 
 &lt;h3 id=&#34;kitematic&#34;&gt;Kitematic&lt;/h3&gt;
 
-&lt;p&gt;Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&lt;/a&gt; to download Kitematic.&lt;/p&gt;
+&lt;p&gt;Kitematic is an open-source project built to simplify and streamline using Docker on a Mac or Windows. It automates the Docker installation and setup process.
+Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&lt;/a&gt; to download Kitematic.&lt;/p&gt;
 
 &lt;h3 id=&#34;postman&#34;&gt;Postman&lt;/h3&gt;
 
@@ -56,7 +97,7 @@ Kevin will provide you an amazon kindle gift to download and read it.&lt;/p&gt;
     </item>
     
     <item>
-      <title>post 01</title>
+      <title>Introduction: What to Expect</title>
       <link>https://ecarreiro.github.io/post/post-01/</link>
       <pubDate>Mon, 24 Oct 2016 10:22:37 -0500</pubDate>
       
