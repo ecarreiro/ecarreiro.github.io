@@ -21,29 +21,55 @@
 
 &lt;p&gt;In the IP Dev rotation, I was definitely the least knowledgeable person in the room. Being a manufacturing engineering major in college, I had been exposed to some basic coding, but that was it. This was the perfect rotation for me to learn more about the IT industry and the emerging trends in the practice. It did have its challenges though. Being the least knowledgeable, I felt way behind Sam and Riane and would feel lost when the meeting topic would get more detailed, and when there were words or concepts I didn’t fully grasp. By the end of the rotation, though, I did overcome these challenges and now feel confident that I can explain things like containers, DevOps, and micro services. Below are some tips on how to be successful in IP Dev when you are an IT beginner:&lt;/p&gt;
 
-&lt;p&gt;## Stay on Track with Your Tasks&lt;/p&gt;
+&lt;h3 id=&#34;stay-on-track-with-your-tasks&#34;&gt;Stay on Track with Your Tasks&lt;/h3&gt;
 
-&lt;p&gt;Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.
-  ## Ask Your Peers&lt;/p&gt;
+&lt;p&gt;Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.&lt;/p&gt;
 
-&lt;p&gt;When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.
-  ## Volunteer or Ask for Hands-On Examples&lt;/p&gt;
+&lt;h3 id=&#34;ask-your-peers&#34;&gt;Ask Your Peers&lt;/h3&gt;
+
+&lt;p&gt;When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.&lt;/p&gt;
+
+&lt;h3 id=&#34;volunteer-or-ask-for-hands-on-examples&#34;&gt;Volunteer or Ask for Hands-On Examples&lt;/h3&gt;
 
 &lt;p&gt;I am a very visual learner, and I noticed the times I really started to grasp some of the concepts and coding around the rotation was when we were doing hands-on examples. If there’s something that interests you or something you want to learn more about, like us learning Hugo, ask Kevin for a hands on example. And, during WebEx meetings when you do live demos, if you feel as though you are the least knowledgeable, volunteer to do the demo and share your screen. That way, Kevin can walk you through anything you don’t understand.&lt;/p&gt;
 
-&lt;h2 id=&#34;be-responsible-for-your-own-learning&#34;&gt;Be Responsible for Your Own Learning&lt;/h2&gt;
+&lt;h3 id=&#34;be-responsible-for-your-own-learning&#34;&gt;Be Responsible for Your Own Learning&lt;/h3&gt;
 
 &lt;p&gt;To get a better more basic understanding of a lot of the concepts, on my own time, I would watch YouTube videos that helped solidify concepts and make them easier to explain in my own words. It’s important that if you don’t understand something, you find your own resources that will appeal to your learning style. Below are links to videos that were a big help to me:&lt;/p&gt;
 
-&lt;h3 id=&#34;links&#34;&gt;Links:&lt;/h3&gt;
+&lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&#34;&gt;DevOps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DevOps&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3WIJ4axzFlU&#34;&gt;Cloud&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=s7wmiS2mSXY&#34;&gt;API&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/I94-tJlovg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Pvbr5d2mIZs&#34;&gt;Microservices &amp;amp; How Everything Works Together&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cloud&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/3WIJ4axzFlU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;APIs&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/s7wmiS2mSXY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Microservices &amp;amp; How Everything Works Together&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Pvbr5d2mIZs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 
 &lt;p&gt;&lt;a href=&#34;http://microservices.io/patterns/apigateway.html&#34;&gt;Example Scenarios&lt;/a&gt;&lt;/p&gt;
 </description>
