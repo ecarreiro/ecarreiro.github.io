@@ -39,7 +39,7 @@
 
 &lt;h4 id=&#34;links&#34;&gt;Links:&lt;/h4&gt;
 
-&lt;p&gt;DevOps&lt;/p&gt;
+&lt;h5 id=&#34;devops&#34;&gt;DevOps&lt;/h5&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -47,7 +47,7 @@
  &lt;/div&gt;
 
 
-&lt;p&gt;Cloud&lt;/p&gt;
+&lt;h5 id=&#34;cloud&#34;&gt;Cloud&lt;/h5&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -55,7 +55,7 @@
  &lt;/div&gt;
 
 
-&lt;p&gt;APIs&lt;/p&gt;
+&lt;h5 id=&#34;apis&#34;&gt;APIs&lt;/h5&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
@@ -63,7 +63,7 @@
  &lt;/div&gt;
 
 
-&lt;p&gt;Microservices &amp;amp; How Everything Works Together&lt;/p&gt;
+&lt;h5 id=&#34;microservices-how-everything-works-together&#34;&gt;Microservices &amp;amp; How Everything Works Together&lt;/h5&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
