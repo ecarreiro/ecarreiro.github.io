@@ -90,12 +90,12 @@
 &lt;h3 id=&#34;slack&#34;&gt;Slack&lt;/h3&gt;
 
 &lt;p&gt;Slack is a cloud based team collaboration tool.
-Click &lt;a href=&#34;https://slack.com/downloads&#34;&gt;here&lt;/a&gt; to download the web client.&lt;/p&gt;
+Click &lt;a href=&#34;https://slack.com/downloads&#34;&gt;here&lt;/a&gt; to download the web client and create an account.&lt;/p&gt;
 
 &lt;h3 id=&#34;kitematic&#34;&gt;Kitematic&lt;/h3&gt;
 
 &lt;p&gt;Kitematic is an open-source project built to simplify and streamline using Docker on a Mac or Windows. It automates the Docker installation and setup process.
-Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&lt;/a&gt; to download Kitematic.&lt;/p&gt;
+Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&lt;/a&gt; to download Kitematic and create an account.&lt;/p&gt;
 
 &lt;h3 id=&#34;postman&#34;&gt;Postman&lt;/h3&gt;
 
@@ -114,6 +114,10 @@ Click &lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;here&l
 &lt;p&gt;Visual Studio Code is a source code editor developed by Microsoft for Windows, Linux, and Mac OS.&lt;/p&gt;
 
 &lt;p&gt;Click &lt;a href=&#34;https://code.visualstudio.com/Download&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;h3 id=&#34;atom&#34;&gt;Atom&lt;/h3&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://atom.io/&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
 
 &lt;h3 id=&#34;the-phoenix-project&#34;&gt;The Phoenix Project&lt;/h3&gt;
 
@@ -136,7 +140,7 @@ Kevin will provide you an amazon kindle gift to download and read it.&lt;/p&gt;
 
 &lt;p&gt;Have you heard about virtualization or Hybrid Cloud? Any ideas on what a container is? Have you installed a distribution of Linux?  If you answered yes to any of these questions-GREAT! If not- GREAT! Expect to leave this rotation with having a firm and solid understanding of how Forsythe delivers cutting edge IT Solutions across the spectrum of the broad IT spectrum (See Slide).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;url&#34; alt=&#34;Alt Text&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecarreiro/ecarreiro.github.io/images//Capture.png&#34; alt=&#34;Evolving IT&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After analyzing this slide you should have come to the realization that maybe your knowledge of the IT spectrum may be lacking. If you are like me, you will enter into this rotation with more questions than answers, and that is in fact encouraged (ASK QUESTIONS!) The end goal of this rotation is that you may be able to speak intelligently to this slide and explain how it applies to Forsythe’s practices.&lt;/p&gt;
 
